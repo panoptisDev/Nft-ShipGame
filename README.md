@@ -1,5 +1,7 @@
 # ShipGame
 ## Ship NFT game with game actions taken on chain.
+## Mumbai deployed contract: https://mumbai.polygonscan.com/address/0x45CBbAB77f9CCDA242a65c65191A9c50AC704fF3
+contract: 0x45CBbAB77f9CCDA242a65c65191A9c50AC704fF3
 
 This game is playable on the polygon network in its beta v2.0 stage at https://www.shipwars.net/
 
